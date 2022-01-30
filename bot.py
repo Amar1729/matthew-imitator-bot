@@ -32,7 +32,7 @@ def about(update: Update, context: CallbackContext):
         text="\n".join([
             "I replicate a friend of my creator's in one of his primary chats.",
             "Check out my page!",
-            "",
+            "https://github.com/Amar1729/matthew-imitator-bot",
         ])
     )
 
